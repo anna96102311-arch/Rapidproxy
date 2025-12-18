@@ -6,20 +6,10 @@ Rapidproxy is a **residential proxy service** designed for developers, data engi
 
 This repository provides an overview of Rapidproxy and basic usage examples.
 
----
-
-## 🌐 What Is Rapidproxy?
-
-**Rapidproxy** provides access to a global pool of **residential IPs only**.  
-All traffic is routed through real residential networks, making it suitable for scenarios where authenticity, locality, and lower block rates are important.
-
-Rapidproxy does **not** offer datacenter or mobile proxies.
-
 Official website:  
 https://www.rapidproxy.io/
 
 ---
-
 
 ## ✨ Key Features
 
