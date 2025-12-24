@@ -11,6 +11,11 @@ https://www.rapidproxy.io/
 
 ---
 
+## ✨ Rapidproxy Promotional Code
+Enter the discount code "RAPIDPROXY5" to enjoy a 5% discount when you place your order.
+
+---
+
 ## ✨ Key Features
 
 - 🏠 **Residential Proxies Only**  
