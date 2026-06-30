@@ -1,82 +1,183 @@
-# Rapidproxy
-Developer-friendly residential proxy service with global IP coverage, flexible rotation, and easy integration for web scraping, automation, and localized testing.
-# Rapidproxy — Residential Proxy Service
+<p align="center">
+  <img src="https://www.rapidproxy.io/static/rapidproxy/images/rapid_logo_700.png" width="320" alt="Rapidproxy">
+</p>
 
-Rapidproxy is a **residential proxy service** designed for developers, data engineers, and growth teams who need reliable access to real residential IP addresses for web scraping, automation, and geo-specific testing.
+<h1 align="center">
+Rapidproxy
+</h1>
 
-This repository provides an overview of Rapidproxy and basic usage examples.
+<p align="center">
+<b>Residential Proxy Infrastructure for Developers</b>
+</p>
 
-Official website:  
+<p align="center">
+Build reliable Web Scraping, Browser Automation, AI Agents and Data Collection applications with Rapidproxy.
+</p>
+
+<p align="center">
+<a href="https://www.rapidproxy.io/">🌐 Website</a> •
+<a href="https://docs.rapidproxy.io/">📖 Documentation</a> •
+<a href="https://www.rapidproxy.io/blog">📝 Blog</a>
+</p>
+
+---
+
+# 👋 Welcome
+
+Welcome to the official GitHub organization of **Rapidproxy**.
+
+Rapidproxy is building a complete developer platform around residential proxies.
+
+Here you'll find official SDKs, integration examples, developer tools, templates, tutorials, and open-source projects to help you build faster.
+
+Whether you're building crawlers, browser automation, AI agents or large-scale data collection systems, Rapidproxy provides practical examples and developer resources.
+
+---
+
+# 🚀 Developer Platform
+
+Our GitHub organization is organized into several categories.
+
+## 📦 SDK
+
+Official SDKs for popular programming languages.
+
+- Python
+- Node.js
+- Go
+- Java
+
+---
+
+## 💻 Examples
+
+Ready-to-use examples for popular frameworks.
+
+- Playwright
+- Puppeteer
+- Selenium
+- Scrapy
+- Requests
+- httpx
+- Browser Use
+- LangChain
+- LangGraph
+- OpenAI SDK
+
+---
+
+## 🛠 Developer Tools
+
+Open-source utilities for developers.
+
+- Proxy Checker
+- Proxy Rotator
+- IP Checker
+- Session Examples
+- Connection Tester
+
+---
+
+## 📚 Templates
+
+Starter templates that help you build projects faster.
+
+- Playwright Template
+- Selenium Template
+- Scrapy Template
+- Browser Use Template
+
+---
+
+## ⭐ Awesome Lists
+
+Curated resources for developers.
+
+- Awesome Web Scraping
+- Awesome Browser Automation
+- Awesome AI Agents
+
+---
+
+# 🌍 Common Use Cases
+
+Rapidproxy is widely used for:
+
+- Web Scraping
+- Browser Automation
+- AI Agents
+- SEO Monitoring
+- Market Research
+- Price Monitoring
+- Ad Verification
+- Public Data Collection
+
+---
+
+# ⭐ Featured Repositories
+
+| Repository | Description | Status |
+|------------|-------------|--------|
+| proxy-examples | Official code examples | 🚧 Coming Soon |
+| rapidproxy-python | Python SDK | 🚧 Coming Soon |
+| playwright-example | Playwright integration | 🚧 Coming Soon |
+| selenium-example | Selenium integration | 🚧 Coming Soon |
+| scrapy-example | Scrapy integration | 🚧 Coming Soon |
+| browser-use-example | Browser Use integration | 🚧 Coming Soon |
+
+> More repositories will be released continuously.
+
+---
+
+# 📖 Learning Resources
+
+🌐 Website
+
 https://www.rapidproxy.io/
 
----
+📚 Documentation
 
-## ✨ Rapidproxy Promotional Code
-Enter the discount code "**RAPIDPROXY5**" to enjoy a **5%** discount when you place your order.
+https://docs.rapidproxy.io/
 
----
+📝 Blog
 
-## ✨ Key Features
-
-- 🏠 **Residential Proxies Only**  
-  IPs sourced from real residential networks.
-
-- 🌍 **Global Coverage**  
-  Residential IPs available across multiple countries and regions.
-
-- 🔄 **Flexible Rotation**  
-  Support for rotating IPs and sticky sessions.
-
-- ⚡ **Stable Connections**  
-  Designed for long-running tasks and repeated requests.
-
-- 🧩 **HTTP / HTTPS Support**  
-  Compatible with standard proxy configurations and libraries.
-
-- 🛠 **Developer-Friendly Setup**  
-  Simple username/password authentication.
+https://www.rapidproxy.io/blog
 
 ---
 
-## 📦 Common Use Cases
+# 🤝 Contributing
 
-Rapidproxy residential proxies are commonly used for:
+We welcome Issues, Discussions and Pull Requests.
 
-- Web scraping & data collection  
-- SEO & SERP monitoring  
-- Price and market intelligence  
-- Ad verification  
-- Localized content testing  
-- Automation workflows  
-- Anti-bot sensitive environments
-  
----
-
-## 🧠 Best Practices
-
-- Use sticky sessions for login-based or stateful flows
-- Rotate IPs for high-frequency scraping tasks
-- Implement retries and timeout handling
-- Monitor response codes to detect blocks early
-- Always follow website terms of service and local regulations
-  
----
-## 🔐 Authentication
-
-- Rapidproxy uses username and password authentication, compatible with most tools and frameworks.
-- IP whitelisting is not required by default.
+If you have ideas for new examples, SDKs or developer tools, feel free to contribute.
 
 ---
 
-## 📚 Documentation & Support
+# 🗺 Roadmap
 
-- Additional documentation, dashboard access, and support resources are available via the official Rapidproxy website.
-- Website: https://www.rapidproxy.io/
+Our goal is to build one of the most developer-friendly residential proxy ecosystems on GitHub.
+
+Upcoming projects include:
+
+- Official SDKs
+- Integration Examples
+- Developer Tools
+- Templates
+- Benchmarks
+- AI Agent Integrations
 
 ---
 
-## ⚠️ Disclaimer
+# 💙 Community
 
-- This repository is provided for technical reference and educational purposes only.
-- Users are responsible for ensuring their proxy usage complies with applicable laws, regulations, and website terms of service.
-  
+If you find our projects useful:
+
+⭐ Star our repositories
+
+🐛 Report issues
+
+💡 Share your ideas
+
+🚀 Follow our updates
+
+Let's build better developer tools together.
